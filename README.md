@@ -4,7 +4,7 @@ Commits N Crosses
  Game Board:
 
 	|---|---|---|
-	| O |   | X |
+	| O | O | X |
 	|---|---|---|
 	| X | X | O |
 	|---|---|---|
