@@ -4,7 +4,7 @@ Commits N Crosses
  Game Board:
 
 	|---|---|---|
-	|   |   |   |
+	| O |   |   |
 	|---|---|---|
 	|   | X |   |
 	|---|---|---|
@@ -13,9 +13,9 @@ Commits N Crosses
 
 -------------
 
- Player X: ________
+ Player X: Matilda________
  
- Player O: ________
+ Player O: "Sir"________
 
 -------------
 
